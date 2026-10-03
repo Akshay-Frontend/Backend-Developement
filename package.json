@@ -1,0 +1,17 @@
+{
+  "name": "node-js-chai-or-code",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
